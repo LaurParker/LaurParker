@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaurParker  -- my friends call me Lauren.
-- 👀 Currently making the switch from Fashion to tech!
+- 👀 Currently making the switch from fashion to tech!
 - 🌱 Just completed my certification in Python via UW & currently prepping for tech interviews!
 - 📫 laurparker1990@gmail.com
 
